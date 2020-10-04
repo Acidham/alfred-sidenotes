@@ -149,9 +149,9 @@
 				<key>scriptfile</key>
 				<string></string>
 				<key>subtext</key>
-				<string></string>
-				<key>title</key>
 				<string>Create Note in SideNotes</string>
+				<key>title</key>
+				<string>SideNotes</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
@@ -335,8 +335,8 @@
 	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
-	<string>1.0</string>
+	<string>1.1</string>
 	<key>webaddress</key>
-	<string></string>
+	<string>https://github.com/Acidham/alfred-sidenotes</string>
 </dict>
 </plist>

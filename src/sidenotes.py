@@ -35,7 +35,7 @@ for f in folders:
     if query == "" or query in f:
         wf.setItem(
             title=f,
-            subtitle=f"Add note to Folder \"{f}\"",
+            subtitle=f"Create a note in \"{f}\"",
             arg=f
         )
         wf.addItem()
